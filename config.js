@@ -89,9 +89,9 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":24.2,"top":83.6,"width":48.25240552615814,"height":5.61357710872642} },
+    presentes: { mostrarTexto:false, posicao: {"left":22.768680735822684,"top":84.06030094229605,"width":54.38659082967252,"height":5.61357710872642} },
     dresscode: { mostrarTexto:false, posicao: {"left":27.623316443690094,"top":88.15132315559829,"width":44.94569626098242,"height":5.654773195839179} },
-    manual: { mostrarTexto:false, posicao: {"left":21.284630216653355,"top":86.77041813383258,"width":57.82747603833866,"height":5.424628211885052} },
+    manual: { mostrarTexto:false, posicao: {"left":21.284630216653355,"top":86.77041813383258,"width":57.82747603833866,"height":5.424628211885052} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
